@@ -22,4 +22,3 @@ for row in a:
 
 abs_difference = abs(lr_diag - rl_diag)
 print (abs_difference)
- 
