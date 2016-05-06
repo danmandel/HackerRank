@@ -13,7 +13,6 @@ lr_diag = 0
 rl_diag = 0
 
 for row in a:
-    
     lr_diag += row[b]
     b += 1
     
